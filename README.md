@@ -68,3 +68,5 @@ If all goes well, you will see the segmentation results in a file named "labels.
 * Sadeep Jayasumana ([sadeepj](https://github.com/sadeepj))
 * Harsha Ranasinghe ([HarshaPrabhath](https://github.com/HarshaPrabhath))
 
+## Important Python version 3.5
+
